@@ -1,0 +1,29 @@
+{
+    "user":[
+        {
+            "username" :"abc",
+            "email" :"abc@1233.com",
+            "password" : "123456"
+
+        },
+        {
+            "username" :"def",
+            "email" :"def@1233.com",
+            "password" : "123456"
+
+        },
+        {
+            "username" :"ghi",
+            "email" :"ghi@1233.com",
+            "password" : "123456"
+
+        },
+        {
+            "username" :"jkl",
+            "email" :"jkl@1233.com",
+            "password" : "123456"
+
+        }
+    ]
+
+}
